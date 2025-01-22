@@ -1,6 +1,6 @@
 # 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（2025年1月更新）
 
-> **更新时间: 2025/01/22**   
+> **更新时间: 2025/01/23**   
 
 本站整理收录了国内可用且**免费的 ChatGPT镜像网站**，有需要的可自取。
 
@@ -24,7 +24,7 @@
 
 ## 国内 ChatGPT 免费中文版镜像网站推荐：
 
-以下是精选的国内优质 **ChatGPT 中文版镜像网站**，提供高效的中文访问体验：、
+以下是精选的国内优质 **ChatGPT 中文版镜像网站**，提供高效的中文访问体验：
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
 - [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
