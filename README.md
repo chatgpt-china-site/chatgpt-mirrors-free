@@ -1,6 +1,6 @@
 # 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（2025年4月更新）
 
-> 更新日期：2025/04/02        
+> 更新日期：2025/04/04        
 
 本站整理收录了国内可用且**免费的 ChatGPT镜像网站**，有需要的可自取。
 
@@ -9,7 +9,7 @@
 这些网站均为免费的网页版，国内ChatGPT、免费ChatGPT、ChatGPT中文版、ChatGPT镜像网站~ 
 
 **ChatGPT 中文版**：**[chat.yixiaai.com](https://chat.yixiaai.com)**   
-**ChatGPT 镜像网站**：**[chat.lanjing.ai](https://chat.lanjing.ai)**
+**ChatGPT 镜像网站**：**[chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
